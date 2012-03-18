@@ -14,5 +14,5 @@ $db = mysql_connect( HOST, USER, PASS ) or die('Cannot Connect');
 session_start();
 
 define('SITENAME' , 'Web Dev'); 
-define('BASEURL', 'http://localhost/anduel/anduel');
+define('BASEURL', 'http://localhost/banago');
 ?>
