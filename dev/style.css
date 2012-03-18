@@ -1,0 +1,48 @@
+body
+{
+     margin:0;
+     padding:0;
+	 width:933px;
+	 height:auto;
+     background:white;
+     font:12px "Trebuchet MS", Arial, Helvetica, sans-serif;
+     margin:10px auto 10px auto;
+
+
+}
+
+
+
+#koka {
+
+height:auto;
+text-align:center;
+background:#999900;
+height:150px;
+margin: 0 0 10px 0;
+}
+
+#permbajtja-majtas
+{
+float:left;
+width:620px;
+height:480px;
+background-color:#999900;
+
+}
+#permbajtja-djathtas
+{float:right;
+width:300px;
+height:480px;
+background:#999900;
+margin: 0 0 10px 0;
+
+}
+#fundi{
+clear:both;
+background-color:#999900;
+width:auto;
+height:50px;
+margin: 10px 0 0 0;
+
+}

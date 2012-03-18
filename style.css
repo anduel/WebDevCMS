@@ -1,0 +1,89 @@
+body {background:#ddd;}
+#trupi {width: 950px; border:1px solid #ccc;
+margin: 20px auto 20px auto;
+background:#fff; padding:20px;}
+#menu {list-style:none; overflow:hidden; 
+clear:both; background:#000; 
+padding:6px 0 6px 20px; border-bottom:5px solid #aa0000}
+#menu li {float:left;margin-right:20px; 
+  color:green;}
+#menu a {color:#fff; text-decoration:none;
+ text-transform:capitalize;}
+#menu a:hover{color:#aaa}
+#nje {font-weight:bold;}
+#dy {font-style:italic;}
+#tre{text-decoration:underline;}
+#kater{text-decoration:line-through;}
+ul.a {list-style-type:circle;}
+#logo p{text-transform:uppercase;
+ font-size:14px; letter-spacing:1px}
+#logo {float:left;}
+#leviz { float:right;}
+table {border:1px solid #999;border-collapse:collapse;}
+table td {border:1px solid #999; padding:5px;}
+
+#fusha{
+width:200px;
+
+}
+
+
+#button{
+width:80px;
+
+}
+.fillimi {
+background-color:#555;
+}
+.fundi{
+background-color:#666;
+
+}
+.mesatare
+{text-align:center; 
+font-weight:bold
+}
+#search input, textarea {
+width:300px;
+border:1px solid #ccc;
+padding:5px;
+}
+
+textarea {
+	width:500px;
+	height:300px;
+	margin-bottom:12px;
+}
+
+label {
+display:block;
+margin-bottom:12px;
+
+}
+fieldset {
+border:1px solid #ccc;
+padding:10px;
+margin-bottom:12px;
+}
+legend
+{border:1px solid #ccc;
+}
+
+#permbajtja { width:620px; float:left; margin: 20px 0; }
+
+.error { color: red; }
+
+#kolona{
+width:300px;
+float:right;
+margin-bottom:20px;
+
+}
+
+#fundi{
+border-top:3px solid #000 ;
+text-align:center;
+clear:both;
+
+
+}
